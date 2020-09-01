@@ -1,0 +1,30 @@
+.search_bar {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+li:hover {
+    background-color: #e0e0e0;
+}
+
+.title_list_item {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.video-details-title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.video-details-text {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.app-title {
+    font-size: 90px;
+    text-align: center;
+    margin-top: 15px;
+    font-family: 'Anton', sans-serif;
+}
